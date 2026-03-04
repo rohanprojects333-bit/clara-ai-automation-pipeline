@@ -1,0 +1,73 @@
+{
+  "version": "v1",
+  "account_id": "GREENTECH_EN",
+  "company_name": "Demo",
+  "business_hours": {
+    "hours": {
+      "monday-friday": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    },
+    "timezone": "EST",
+    "observed": true
+  },
+  "office_address": "",
+  "services_supported": [
+    "consultation",
+    "transfer",
+    "information",
+    "support"
+  ],
+  "emergency_definition": [
+    "urgent medical need",
+    "severe pain",
+    "inability to function"
+  ],
+  "emergency_routing_rules": {
+    "routing_criteria": [],
+    "escalation_path": [],
+    "fallback_destination": null,
+    "confirmation_required": true
+  },
+  "non_emergency_routing_rules": {
+    "routing_criteria": [
+      "regular call detected"
+    ],
+    "escalation_path": [
+      "emergency_line",
+      "oncall_doctor",
+      "voicemail"
+    ],
+    "fallback_destination": "callback_requested",
+    "confirmation_required": true
+  },
+  "call_transfer_rules": {
+    "transfer_enabled": true,
+    "require_confirmation": true,
+    "max_wait_seconds": 180,
+    "fallback_on_timeout": "voicemail",
+    "transfer_announcement": true,
+    "allowed_departments": [
+      "main",
+      "general"
+    ]
+  },
+  "integration_constraints": [
+    "existing_phone_system_compatibility",
+    "hipaa_compliant_required",
+    "business_hours_aware"
+  ],
+  "after_hours_flow_summary": "Emergency detection \u2192 Immediate transfer attempt \u2192 Voicemail fallback with next-business-day callback",
+  "office_hours_flow_summary": "Caller information collection \u2192 Intelligent routing to appropriate department",
+  "questions_or_unknowns": [
+    "Physical office address needed",
+    "Emergency definition and response procedures"
+  ],
+  "notes": "Demo Call Transcript - GreenTech Environmental\nCall Date: 2026-03-01\nCaller: Environmental Consultant\nDuration: 7 minutes\n\n---\n\nAgent: Thank you for calling GreenTech Environmental.  What can we assist you with?\n\nCaller: Hi, I'm looking for a consultation on waste management solutions for my manufacturing facility.",
+  "metadata": {
+    "source_file": "greentech_environmental.txt",
+    "extraction_version": "1.0",
+    "extraction_date": "2026-03-03T20:38:31.448391"
+  }
+}

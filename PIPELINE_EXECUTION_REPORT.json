@@ -1,0 +1,148 @@
+{
+  "pipeline_execution": {
+    "timestamp": "2026-03-03T21:00:11.787500",
+    "status": "complete"
+  },
+  "demo_pipeline": {
+    "accounts_created": [
+      "DEMO_MEDICAL",
+      "GREENTECH_EN",
+      "PREMIER_LEGA",
+      "TECH_SUPPORT",
+      "TEST_DEMO",
+      "ZENITH_FINAN"
+    ],
+    "count": 6,
+    "errors": []
+  },
+  "onboarding_pipeline": {
+    "accounts_versioned": [
+      "DEMO_MEDICAL",
+      "GREENTECH_EN",
+      "PREMIER_LEGA",
+      "TECH_SUPPORT",
+      "ZENITH_FINAN"
+    ],
+    "count": 5,
+    "errors": []
+  },
+  "summary": {
+    "total_accounts": 6,
+    "v1_created": 6,
+    "v2_created": 5,
+    "changelogs_generated": 5
+  },
+  "output_structure": {
+    "root": "C:\\Users\\rohan\\OneDrive\\Desktop\\clara_ai_pipeline",
+    "account_dirs": [
+      {
+        "account_id": "COMPANY",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "DEMO",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "DEMO_MEDICAL",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          },
+          "v2": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "GREENTECH_EN",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          },
+          "v2": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "PREMIER_LEGA",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          },
+          "v2": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "TECH_SUPPORT",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          },
+          "v2": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "TEST_DEMO",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      },
+      {
+        "account_id": "ZENITH_FINAN",
+        "versions": {
+          "v1": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          },
+          "v2": {
+            "memo": true,
+            "spec": true,
+            "tracking": true
+          }
+        }
+      }
+    ],
+    "total_memos": 13,
+    "total_specs": 13,
+    "total_changelogs": 5
+  }
+}

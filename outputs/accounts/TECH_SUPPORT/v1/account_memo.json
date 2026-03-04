@@ -1,0 +1,78 @@
+{
+  "version": "v1",
+  "account_id": "TECH_SUPPORT",
+  "company_name": "Owner",
+  "business_hours": {
+    "hours": {
+      "monday-friday": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    },
+    "timezone": "EST",
+    "observed": true
+  },
+  "office_address": "",
+  "services_supported": [
+    "consultation",
+    "emergency",
+    "transfer",
+    "information",
+    "support"
+  ],
+  "emergency_definition": [
+    "urgent medical need",
+    "severe pain",
+    "inability to function"
+  ],
+  "emergency_routing_rules": {
+    "routing_criteria": [
+      "emergency call detected"
+    ],
+    "escalation_path": [
+      "main_desk",
+      "department",
+      "voicemail"
+    ],
+    "fallback_destination": "callback_requested",
+    "confirmation_required": true
+  },
+  "non_emergency_routing_rules": {
+    "routing_criteria": [
+      "regular call detected"
+    ],
+    "escalation_path": [
+      "main_desk",
+      "department",
+      "voicemail"
+    ],
+    "fallback_destination": "callback_requested",
+    "confirmation_required": true
+  },
+  "call_transfer_rules": {
+    "transfer_enabled": true,
+    "require_confirmation": true,
+    "max_wait_seconds": 180,
+    "fallback_on_timeout": "voicemail",
+    "transfer_announcement": true,
+    "allowed_departments": [
+      "support",
+      "sales"
+    ]
+  },
+  "integration_constraints": [
+    "existing_phone_system_compatibility"
+  ],
+  "after_hours_flow_summary": "Emergency detection \u2192 Immediate transfer attempt \u2192 Voicemail fallback with next-business-day callback",
+  "office_hours_flow_summary": "Greeting and purpose identification \u2192 Caller information collection \u2192 Intelligent routing to appropriate department",
+  "questions_or_unknowns": [
+    "Exact business hours need confirmation",
+    "Physical office address needed"
+  ],
+  "notes": "Demo Call Transcript - Tech Support Solutions Inc\nCall Date: 2026-03-01\nCaller: Small Business Owner\nCall Duration: 6 minutes\n\n---\n\nAgent: Hello, you've reached Tech Support Solutions.  What can we help you with today?\n\nCaller: Hi, I'm looking for some IT support for my small business.",
+  "metadata": {
+    "source_file": "tech_support_solutions.txt",
+    "extraction_version": "1.0",
+    "extraction_date": "2026-03-03T20:38:31.461299"
+  }
+}

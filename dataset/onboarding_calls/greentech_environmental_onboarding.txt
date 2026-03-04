@@ -1,0 +1,50 @@
+Onboarding Call Transcript - GreenTech Environmental
+Call Date: 2026-03-02
+Purpose: Service Configuration
+Duration: 11 minutes
+
+---
+
+Rep: Thanks for taking this call. How did the demo call go?
+
+Director: Very well. David became an actual prospect.
+
+Rep: Fantastic. Let's solidify your system. Your hours are Monday-Friday, 8 AM to 5 PM Pacific. Correct?
+
+Director: Yes, that's right.
+
+Rep: Emergency support? After-hours critical situations?
+
+Director: We don't really have emergencies in the traditional sense, but if a client has a compliance issue threatening their operations, that does warrant after-hours attention. We have an emergency contact - 503-555-9111.
+
+Rep: What would trigger an after-hours emergency call?
+
+Director: Regulatory notice received. Facility inspection scheduled. Spill or contamination incident affecting regulations.
+
+Rep: Okay, so environmental emergencies, not medical or true emergencies - but business-critical. Noted. Your departments?
+
+Director: Consulting Services and Compliance Auditing. Consulting handles general inquiries and new client discovery. Compliance Auditing handles existing clients with audit questions.
+
+Rep: For non-emergency after-hours?
+
+Director: Voicemail. Let them know we'll respond within 24 business hours.
+
+Rep: Any special notes?
+
+Director: Yes. We should mention we're ISO 14001 certified. Probably mention that in the greeting. And we're specific about what we do - we don't do cleanup or remediation, just consulting and auditing.
+
+Rep: I'll add that to your description. Address?
+
+Director: 555 Sustainability Ave, Portland, Oregon 97201.
+
+Rep: Great. So v2 includes: compliance emergency protocol, ISO certification, services clarification, 24-hour callback commitment.
+
+Director: Perfect.
+
+---
+
+Key Updates:
+- Compliance emergencies (regulatory/inspection): 503-555-9111
+- ISO 14001 certified (add to profile)
+- Services: Planning and Reporting, Environmental Compliance
+- After-hours: 24-hour business hours callback

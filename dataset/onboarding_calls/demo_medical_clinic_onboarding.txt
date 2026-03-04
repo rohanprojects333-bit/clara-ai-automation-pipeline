@@ -1,0 +1,106 @@
+Onboarding Call Transcript - Demo Medical Clinic
+Call Date: 2026-03-02
+Purpose: Full Onboarding & System Setup
+Attendees: Clinic Manager (Dr. Patricia Chen), AI System Representative
+Call Duration: 18 minutes 45 seconds
+
+---
+
+Rep: Thanks for joining, Dr. Chen. Today we're going to finalize your clinic's AI receptionist setup based on how the initial demo call went.
+
+Dr. Chen: Yes, that worked well. We actually did get Sarah as a patient from that call, so thanks for that.
+
+Rep: Excellent! That's the first successful conversion. Now, let me review your current setup and make sure everything matches your actual workflow. First, your business hours - are they daily 9 to 5?
+
+Dr. Chen: Actually, let me clarify. We're open Monday through Friday 9 AM to 5 PM Eastern Time, but we also have Saturday hours from 10 AM to 2 PM. We're closed Sundays. That's been a change from your initial notes.
+
+Rep: Got it - I'll update that. What about the emergency after-hours protocol? How does that actually work?
+
+Dr. Chen: So if someone calls outside of hours with a real emergency - like chest pain, severe symptoms - we have Dr. Martinez on-call evenings and weekends. For weeknight emergencies after 5 PM, the system should route to 217-555-0199, and for weekends it's the same number. That goes to our emergency dispatcher.
+
+Rep: What constitutes an emergency in your protocols?
+
+Dr. Chen: Good question. It's not just medical. We get calls about injury, severe symptoms, medication issues - basically anything the patient feels they can't wait until morning for. Also suicidal ideation or mental health crisis.
+
+Rep: I'll add those to the emergency definition. So non-emergency after-hours calls?
+
+Dr. Chen: Those go to voicemail. The system should say: "We'll get back to you first thing in the morning." And we actually call back everyone within an hour of opening.
+
+Rep: Perfect. For your in-business-hours routing, who are the main departments?
+
+Dr. Chen: Okay, for business hours we have Front Desk that handles scheduling. Then we have Nurse Line for questions about medications or symptoms. Then my office for administration. And we changed the billing setup - now we use an external billing company, BillMaster Solutions. So billing calls should go to 217-555-0188 - that's external.
+
+Rep: Should the AI system transfer to billing or just collect their information?
+
+Dr. Chen: Just collect their info and confirm we'll have someone call them back. We do the actual transfer to BillMaster separately.
+
+Rep: Understood. Any integration constraints we should know about?
+
+Dr. Chen: Yes, we're HIPAA compliant, obviously. We're still running on an old Avaya PBX system. I don't know if that matters.
+
+Rep: It matters for transfer routing. We'll make sure we're SIP-compatible with the Avaya. Should be fine. Just something to test.
+
+Dr. Chen: Also, patient data - no personal information should be stored anywhere in the AI system, right?
+
+Rep: Correct. The AI collects the information - name, phone, basic call purpose - but doesn't store it. It submits immediately to your logging system and we have zero retention on our end.
+
+Dr. Chen: That's good. Are HIPAA notifications shown to patients?
+
+Rep: Not by default, but we can add a standard compliance notice to your voicemail message. Want us to add that?
+
+Dr. Chen: Please do. Something like "Your information is protected under HIPAA..."
+
+Rep: Got it. Let me also confirm your full address. Is it still 456 Oak Avenue, Springfield, IL 62701?
+
+Dr. Chen: Yes, that's correct.
+
+Rep: Great. And what about the clinic name? Should the AI say "Demo Medical Clinic" or do you have a formal name?
+
+Dr. Chen: Actually we just changed our legal name to "Springfield Medical Associates." But people still call us Demo Clinic. Can the system use both?
+
+Rep: Yes, we can have it use the professional name in transfers and voicemail, but use the nickname in the initial greeting like "thanks for calling Demo Medical Clinic, we're Springfield Medical Associates."
+
+Dr. Chen: Perfect.
+
+Rep: Okay, one more thing. The demo call mentioned Sunday for the clinic being closed - are you sure you don't have ANY hours Sunday?
+
+Dr. Chen: Definitely not. Zero hours on Sunday. Maybe I said that wrong in the first call, but we're definitely closed Sundays.
+
+Rep: Okay, removing that. So to recap your updates for version 2:
+
+Business Hours: Monday-Friday 9 AM-5 PM, Saturday 10 AM-2 PM, Eastern Time, Closed Sundays
+Emergency After-Hours: Severe symptoms, injury, medication issues, mental health crisis → transfer to 217-555-0199
+Non-Emergency After-Hours: Voicemail with next-business-day callback assurance
+Routing: Front Desk (scheduling), Nurse Line (clinical questions), Dr. Chen's office (admin), BillMaster (external billing at 217-555-0188)
+Compliance: HIPAA required, Avaya PBX compatibility, no data retention, privacy notice on VM
+Company: "Demo Medical Clinic" / "Springfield Medical Associates"
+Address: 456 Oak Avenue, Springfield, IL 62701
+
+Dr. Chen: That's perfect. That's exactly how we work.
+
+Rep: Excellent. I'll get this pushed through shortly. You'll have a new version of your AI with these changes. I'd recommend testing with a non-emergency off-hours call first, then an emergency escalation test.
+
+Dr. Chen: How does the test work?
+
+Rep: We'll prepare a test script you can give someone to call the system. They run through scenarios - trying to schedule, asking about hours, calling after hours with different situation types. You listen and confirm the routing and language all matches your expectations.
+
+Dr. Chen: That sounds good. When can we get that?
+
+Rep: By tomorrow. I'll also send a summary document of all changes from the demo to this version, so you can see exactly what was updated.
+
+Dr. Chen: Perfect. Thanks for walking through all this.
+
+Rep: You're welcome. We'll be in touch soon with the test package.
+
+---
+
+Updates Summary:
+- Saturday hours added (10 AM - 2 PM)
+- Sunday explicitly closed (removed)
+- Emergency definition expanded (mental health crisis added)
+- External billing department added
+- Company name formalized to Springfield Medical Associates
+- HIPAA privacy notice added to voicemail
+- PBX compatibility requirement noted
+- Non-emergency after-hours callback timing specified (within 1 hour)
+- All emergency and non-emergency routing confirmed and updated

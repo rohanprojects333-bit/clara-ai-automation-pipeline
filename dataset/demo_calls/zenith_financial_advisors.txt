@@ -1,0 +1,32 @@
+Demo Call Transcript - Zenith Financial Advisors
+Call Date: 2026-03-01
+Caller: Prospective Client
+Duration: 8 minutes 15 seconds
+
+---
+
+Agent: Welcome to Zenith Financial Advisors. How can we help you today?
+
+Caller: Hi, I'm interested in talking to an advisor about retirement planning.
+
+Agent: Wonderful. I'd be happy to help facilitate that. Zenith Financial Advisors is located at 999 Investment Blvd, New York, NY 10001. May I have your name?
+
+Caller: Emily Rodriguez.
+
+Agent: Thank you Emily. And your phone number?
+
+Caller: 212-555-1234.
+
+Agent: Perfect. Our team is available Monday through Friday, 9 AM to 5 PM Eastern Time. We provide retirement planning, investment management, and wealth advisory services. Let me connect you with one of our financial advisors to discuss your retirement goals.
+
+Caller: That sounds great.
+
+Agent: With your permission, I'm going to transfer you to our Advisory Services team.
+
+Caller: Yes, please.
+
+[Transfer successful]
+
+---
+
+Notes: Retirement planning inquiry. Solid transfer to Advisory Services.

@@ -1,0 +1,65 @@
+{
+  "version": "v1",
+  "account_id": "ZENITH_FINAN",
+  "company_name": "Demo",
+  "business_hours": {
+    "hours": {
+      "monday-friday": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    },
+    "timezone": "EST",
+    "observed": true
+  },
+  "office_address": "",
+  "services_supported": [
+    "transfer",
+    "information",
+    "support"
+  ],
+  "emergency_definition": [
+    "urgent medical need",
+    "severe pain",
+    "inability to function"
+  ],
+  "emergency_routing_rules": {
+    "routing_criteria": [],
+    "escalation_path": [],
+    "fallback_destination": null,
+    "confirmation_required": true
+  },
+  "non_emergency_routing_rules": {
+    "routing_criteria": [],
+    "escalation_path": [],
+    "fallback_destination": null,
+    "confirmation_required": true
+  },
+  "call_transfer_rules": {
+    "transfer_enabled": true,
+    "require_confirmation": true,
+    "max_wait_seconds": 180,
+    "fallback_on_timeout": "voicemail",
+    "transfer_announcement": true,
+    "allowed_departments": [
+      "main",
+      "general"
+    ]
+  },
+  "integration_constraints": [
+    "existing_phone_system_compatibility"
+  ],
+  "after_hours_flow_summary": "Emergency detection \u2192 Immediate transfer attempt \u2192 Voicemail fallback with next-business-day callback",
+  "office_hours_flow_summary": "Greeting and purpose identification \u2192 Caller information collection \u2192 Intelligent routing to appropriate department",
+  "questions_or_unknowns": [
+    "Exact business hours need confirmation",
+    "Physical office address needed",
+    "Emergency definition and response procedures"
+  ],
+  "notes": "Demo Call Transcript - Zenith Financial Advisors\nCall Date: 2026-03-01\nCaller: Prospective Client\nDuration: 8 minutes 15 seconds\n\n---\n\nAgent: Welcome to Zenith Financial Advisors.  How can we help you today?\n\nCaller: Hi, I'm interested in talking to an advisor about retirement planning.",
+  "metadata": {
+    "source_file": "zenith_financial_advisors.txt",
+    "extraction_version": "1.0",
+    "extraction_date": "2026-03-03T20:38:31.477004"
+  }
+}

@@ -1,0 +1,64 @@
+Onboarding Call Transcript - Zenith Financial Advisors
+Call Date: 2026-03-02
+Purpose: Compliance and Security Configuration
+Duration: 16 minutes
+
+---
+
+Rep: Hi, thanks for joining. How did the demo call perform?
+
+Chief Advisor: Excellent. Emily became a client - we've already scheduled her first consultation.
+
+Rep: That's fantastic! Let's finalize your system. Still Monday-Friday 9 to 5 Eastern?
+
+Chief Advisor: Yes, that's locked in.
+
+Rep: Emergency handling? Financial services can have urgent situations.
+
+Chief Advisor: We have a policy about after-hours emergencies. If it's a genuine market-related emergency - like a major position that needs immediate action during off-hours - we have an emergency advisor hotline: 212-555-9999.
+
+Rep: What constitutes a financial emergency?
+
+Chief Advisor: Market flash crash affecting their portfolio. Margin call. Security breach on their account. Things that require immediate expertise. Not just routine questions.
+
+Rep: Non-emergency after-hours?
+
+Chief Advisor: Voicemail. Tell them we'll reach back during market hours the next business day.
+
+Rep: Department routing?
+
+Chief Advisor: Advisory Services for new clients and general inquiries. Compliance handles existing clients with account questions or issues. Wealth Management for our premium clients.
+
+Rep: How do you identify premium clients?
+
+Chief Advisor: They'll usually say so. Or if they reference specific account numbers or recent communications with the firm. Otherwise, default to Advisory Services.
+
+Rep: Compliance and regulations? This is critical for financial services.
+
+Chief Advisor: Oh yes, definitely. We're SEC-licensed and comply with all fiduciary standards. We also follow strict client privacy standards - no client information should be stored by the AI system. Everything is SEC-regulated and confidential. We should have privacy notices on all interactions.
+
+Rep: Should the AI mention SEC compliance in the greeting?
+
+Chief Advisor: Actually, yes. Something like "SEC-licensed advisory" would be good. Clients want to know they're speaking with a regulated firm.
+
+Rep: Address?
+
+Chief Advisor: 999 Investment Blvd, New York, NY 10001.
+
+Rep: Excellent. So v2 updates: emergency market advisor contact, department routing by client type, SEC licensing and fiduciary compliance noted, strict client privacy protocols, no data storage commitment.
+
+Chief Advisor: That's perfect. That covers what we need.
+
+Rep: I'll also add language about market hours and how that affects response times.
+
+Chief Advisor: Good idea.
+
+---
+
+Critical Updates:
+- Emergency advisor hotline for market events: 212-555-9999
+- SEC-licensed, fiduciary compliance noted
+- Three departments: Advisory Services, Compliance, Wealth Management
+- Zero client data storage in AI system
+- Privacy/confidentiality notice mandatory on all interactions
+- Market hours awareness in responses

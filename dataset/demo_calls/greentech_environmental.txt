@@ -1,0 +1,34 @@
+Demo Call Transcript - GreenTech Environmental
+Call Date: 2026-03-01
+Caller: Environmental Consultant
+Duration: 7 minutes
+
+---
+
+Agent: Thank you for calling GreenTech Environmental. What can we assist you with?
+
+Caller: Hi, I'm looking for a consultation on waste management solutions for my manufacturing facility.
+
+Agent: Excellent. I'd be happy to help. GreenTech Environmental is located at 555 Sustainability Ave, Portland, OR 97201. What's your name?
+
+Caller: David Chen.
+
+Agent: Thank you David. Phone number?
+
+Caller: 503-555-0789.
+
+Agent: Great. Our office hours are Monday through Friday, 8 AM to 5 PM Pacific Time. We specialize in waste management consulting, environmental compliance audits, and emissions reporting. Are you looking for a specific service?
+
+Caller: Waste management and compliance audit.
+
+Agent: Perfect. That's exactly what our consultants handle. Let me get you connected to our Consulting team. One moment.
+
+Agent: David, I'm going to transfer you to our lead consultant. Sound good?
+
+Caller: Yes, thank you.
+
+[Transfer successful]
+
+---
+
+Notes: B2B consulting inquiry. Referred to appropriate consultant.

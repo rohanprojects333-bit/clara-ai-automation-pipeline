@@ -1,0 +1,32 @@
+Demo Call Transcript - Premier Legal Services
+Call Date: 2026-03-01
+Caller: Client
+Duration: 5 minutes 20 seconds
+
+---
+
+Agent: Hello, Premier Legal Services. How may I direct your call?
+
+Caller: Hi, I need to speak with someone about a contract review.
+
+Agent: I can help with that. May I have your name?
+
+Caller: James Wilson.
+
+Agent: Thank you James, and a number to reach you?
+
+Caller: 617-555-0456.
+
+Agent: Our firm is located at 321 Law Plaza, Boston, MA 02108. We're open Monday through Friday, 9 AM to 5 PM Eastern Time. We handle contract review, litigation support, and general counsel services. Let me transfer you to our Contract Review team.
+
+Caller: Perfect.
+
+Agent: I'm going to connect you now. Is that okay?
+
+Caller: Yes, thank you.
+
+[Transfer successful]
+
+---
+
+Notes: Client seeking contract review services. Professional transfer executed.

@@ -1,0 +1,38 @@
+Demo Call Transcript - Tech Support Solutions Inc
+Call Date: 2026-03-01
+Caller: Small Business Owner
+Call Duration: 6 minutes
+
+---
+
+Agent: Hello, you've reached Tech Support Solutions. What can we help you with today?
+
+Caller: Hi, I'm looking for some IT support for my small business.
+
+Agent: Happy to help! We're located at 789 Tech Drive, Austin, TX 78701. Can I get your name?
+
+Caller: I'm Michael Torres.
+
+Agent: Thank you Michael. And a phone number?
+
+Caller: 512-555-0234.
+
+Agent: Perfect. We're open Monday through Friday, 8 AM to 6 PM Central Time. Our team handles software support, network setup, and security consulting. Do you have a specific issue today?
+
+Caller: Just general questions about managed IT services.
+
+Agent: Great. Let me transfer you to our Sales team to discuss a service package. One moment.
+
+Agent: Before I connect you, have you had any security incidents or urgent issues?
+
+Caller: Nothing urgent, just planning ahead.
+
+Agent: Okay, transferring you now to Sales. Is that alright?
+
+Caller: Yes, fine.
+
+[Transfer successful]
+
+---
+
+Notes: Prospective client for managed IT services. Contact captured. Transferred to sales without incident.

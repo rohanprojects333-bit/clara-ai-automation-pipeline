@@ -1,0 +1,75 @@
+{
+  "version": "v2",
+  "account_id": "GREENTECH_EN",
+  "company_name": "Onboarding",
+  "business_hours": {
+    "hours": {
+      "monday-friday": {
+        "start": "09:00",
+        "end": "17:00"
+      }
+    },
+    "timezone": "EST",
+    "observed": true
+  },
+  "office_address": "",
+  "services_supported": [
+    "appointment",
+    "consultation",
+    "emergency",
+    "information",
+    "support"
+  ],
+  "emergency_definition": [
+    "call?\n\nDirector: Regulatory notice received"
+  ],
+  "emergency_routing_rules": {
+    "routing_criteria": [
+      "emergency call detected"
+    ],
+    "escalation_path": [
+      "emergency_line",
+      "oncall_doctor",
+      "voicemail"
+    ],
+    "fallback_destination": "voicemail",
+    "confirmation_required": true
+  },
+  "non_emergency_routing_rules": {
+    "routing_criteria": [
+      "regular call detected"
+    ],
+    "escalation_path": [
+      "emergency_line",
+      "oncall_doctor",
+      "voicemail"
+    ],
+    "fallback_destination": "voicemail",
+    "confirmation_required": true
+  },
+  "call_transfer_rules": {
+    "transfer_enabled": true,
+    "require_confirmation": true,
+    "max_wait_seconds": 180,
+    "fallback_on_timeout": "voicemail",
+    "transfer_announcement": true,
+    "allowed_departments": [
+      "support",
+      "emergency"
+    ]
+  },
+  "integration_constraints": [
+    "existing_phone_system_compatibility",
+    "hipaa_compliant_required",
+    "business_hours_aware"
+  ],
+  "after_hours_flow_summary": "Emergency calls routed to on-call doctor \u2192 Non-emergency calls leave voicemail with callback assurance",
+  "office_hours_flow_summary": "Greeting and purpose identification \u2192 Caller information collection \u2192 Intelligent routing to appropriate department \u2192 Action confirmation and scheduling",
+  "questions_or_unknowns": [],
+  "notes": "Onboarding Call Transcript - GreenTech Environmental\nCall Date: 2026-03-02\nPurpose: Service Configuration\nDuration: 11 minutes\n\n---\n\nRep: Thanks for taking this call.  How did the demo call go?\n\nDirector: Very well.",
+  "metadata": {
+    "source_file": "greentech_environmental_onboarding.txt",
+    "extraction_version": "1.0",
+    "extraction_date": "2026-03-03T20:38:31.507320"
+  }
+}

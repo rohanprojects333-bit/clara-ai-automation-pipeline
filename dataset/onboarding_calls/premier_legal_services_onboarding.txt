@@ -1,0 +1,58 @@
+Onboarding Call Transcript - Premier Legal Services  
+Call Date: 2026-03-02
+Purpose: Full System Setup
+Duration: 14 minutes
+
+---
+
+Rep: Hi, how was the premier legal demo?
+
+Counsel: It went well. Clean call.
+
+Rep: Great. Let's confirm your details. Monday-Friday 9 to 5 Eastern still good?
+
+Counsel: Yes, that's correct.
+
+Rep: Emergency handling after hours?
+
+Counsel: Actually, we do have some clients who might have urgent matters. We have a partner attorney on-call for genuine emergencies. That would be 617-555-9111.
+
+Rep: What defines an emergency for your firm?
+
+Counsel: Immediate legal threat. Client facing lawsuit, urgent injunction needed, that sort of thing. Not just general questions.
+
+Rep: Understood. Non-emergency after-hours?
+
+Counsel: Voicemail. Standard "we'll get back to you" message.
+
+Rep: Departments?
+
+Counsel: Contract Review, Litigation Support, and Corporate Counsel. That's it. Those are our three practice areas.
+
+Rep: Customer fields - do they need to authenticate?
+
+Counsel: Not required, but if they reference an existing client matter, that's helpful for routing. If not, just route based on what they need.
+
+Rep: Any compliance or regulatory notes?
+
+Counsel: We're bound by attorney-client privilege. Probably should note that the AI doesn't store any case details or client information. Just collects the minimum - name, callback number, general area of law.
+
+Rep: Privacy notice on all interactions?
+
+Counsel: Yes, that would be good. Something about attorney-client privilege and confidentiality.
+
+Rep: Address?
+
+Counsel: 321 Law Plaza, Boston, MA 02108. Still the same.
+
+Rep: Perfect. Summarizing v2 changes: emergency contact added, practice areas clarified, attorney-client privilege protocol, no case data collection, confidentiality notice.
+
+Counsel: That's exactly right.
+
+---
+
+Updates:
+- Emergency handling (urgent legal matters): 617-555-9111
+- Three practice areas: Contract Review, Litigation Support, Corporate Counsel
+- Attorney-client privilege and confidentiality protocols
+- Minimal data collection (no case details)

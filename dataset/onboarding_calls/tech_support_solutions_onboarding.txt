@@ -1,0 +1,53 @@
+Onboarding Call Transcript - Tech Support Solutions Inc
+Call Date: 2026-03-02
+Purpose: System Updates Post-Demo
+Duration: 12 minutes
+
+---
+
+System Rep: Hi, thanks for your time today. How did the demo call go?
+
+Company Rep: Really well actually. We got a legitimate lead from Michael's call.
+
+Rep: Excellent! Now let's confirm your setup. You're open Monday-Friday, 8 AM to 6 PM Central. Any changes there?
+
+Company Rep: No, that's still correct. Although we do handle some emergency support. We have an on-call engineer for critical incidents.
+
+Rep: What's considered critical in your case?
+
+Company Rep: System outages affecting business operations. Security breaches. Those go to our emergency number 512-555-9999. But we also want to note that we only do IT support - no other services. Just make that clear.
+
+Rep: Got it. Non-emergency after-hours?
+
+Company Rep: Voicemail. Tell them we'll prioritize and call first thing in the morning.
+
+Rep: For departments, who should calls route to?
+
+Company Rep: Sales handles new inquiries. Support handles existing customer issues. If someone's from an existing account, get them to Support team. Otherwise Sales.
+
+Rep: How will the AI know if they're an existing customer?
+
+Company Rep: If they mention their company name or account number, that's a sign. Otherwise ask. If they can't verify, route to Sales - they'll figure it out.
+
+Rep: Any compliance needs? Security related?
+
+Company Rep: We should note we're SOC 2 compliant. Can you add a note about that? And we use encryption for all customer data.
+
+Rep: Absolutely. Address still the same?
+
+Company Rep: Yes, 789 Tech Drive, Austin, Texas 78701.
+
+Rep: Great. So changes for v2: emergency critical incidents, security/compliance notes, clarify IT-only services, customer verification routing.
+
+Company Rep: That's right.
+
+Rep: Perfect. I'll get this updated and the new AI version ready.
+
+---
+
+Key Updates:
+- Emergency support for critical outages (512-555-9999)
+- SOC 2 compliance note added
+- Customer verification before routing
+- IT-only services clarification
+- Department routing by customer status

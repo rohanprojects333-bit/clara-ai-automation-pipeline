@@ -1,0 +1,24 @@
+Company Name: ABC Plumbing
+
+Business Hours: Monday - Friday 9am - 5pm EST
+
+Services: Leak repair, Pipe installation, Emergency plumbing
+
+Emergency Routing Rules:
+If water flooding is reported, immediately transfer to on-call technician.
+
+Non-Emergency Routing Rules:
+Schedule service appointment during business hours.
+
+Call Transfer Rules:
+Transfer billing inquiries to accounts department.
+
+Integration Constraints:
+Must integrate with existing CRM.
+
+After Hours Flow Summary:
+Forward calls to voicemail and notify technician by SMS.
+
+Office Hours Flow Summary:
+Receptionist answers and routes calls accordingly.cd C:\Users\rohan\OneDrive\Desktop\clara_ai_pipeline
+python scripts/runner.py .

@@ -1,0 +1,44 @@
+Demo Call Transcript - Demo Medical Clinic
+Call Date: 2026-03-01
+Caller: Potential New Patient
+Call Duration: 4 minutes 32 seconds
+
+---
+
+Agent: Thank you for calling Demo Medical Clinic. How can I help you today?
+
+Caller: Hi, I'm looking to schedule an appointment with a doctor.
+
+Agent: Great! I'd be happy to help. Our clinic is located at 456 Oak Avenue, Springfield, IL 62701. Can I get your name please?
+
+Caller: My name is Sarah Johnson.
+
+Agent: Thank you Sarah. And a phone number where we can reach you?
+
+Caller: It's 217-555-0147.
+
+Agent: Perfect. Our office hours are Monday through Friday, 9 AM to 5 PM, Eastern Time. We're closed on weekends. What would be a good time for you to come in?
+
+Caller: Sometime next week would be great.
+
+Agent: We offer several services including general appointments, urgent care consultations, and emergency after-hours support. For regular appointments we can book you Monday through Friday during business hours. If you experience an emergency outside our hours, please call our emergency line at 217-555-0199.
+
+Caller: That's helpful information. What about billing?
+
+Agent: We accept most insurance plans. You can call our billing department at extension 4 to discuss payment options. But let me connect you with our scheduling team to get you that appointment first, okay?
+
+Caller: Yes, that works.
+
+Agent: I'm going to transfer you now to our scheduling team. They'll confirm available times next week. Is that okay?
+
+Caller: Yes, that's fine.
+
+Agent: One more thing - we do require confirmation of your emergency contact information in case we need to reach you. The scheduling team will take care of that when they see you.
+
+Caller: Okay, transferring now.
+
+[Transfer successful]
+
+---
+
+Notes: Caller interested in general appointment. Patient provided name and contact. Scheduling confirmed available for following week. Emergency protocol explained.
